@@ -1,18 +1,40 @@
-# DART-HACKATHON-REPOSITORY
+# web-technologies-level-1-hackathon
 
-# Dart Programs
+This event is designed to test your skills in HTML elements, including HTML structure, paragraphs, links, images, forms, and CSS. 
+Whether you're a total beginner or looking to brush up on your skills, this hackathon will provide you with an opportunity to practice and showcase your abilities.
+
+Activities
+# 1. HTML Structure
+
+Objective: Create the basic structure of an HTML document.
+
+# 2. Paragraphs & Headings
+
+Objective: Understand how to structure and format text using paragraph tags.
+
+# 3. Links
+
+Objective: Learn how to create hyperlinks to navigate between pages.
+
+# 4. Images
+
+Objective: Incorporate images into your web page.
+
+# 5. Forms
+
+Objective: Understand how to create forms for user input.
+
+# 6. CSS Styling
+
+Objective: Apply styles to your HTML elements using CSS.
+
+# Submission Guidelines
+
+Fork this repository and clone it to your local machine.
+Create a new branch with your GitHub username (git checkout -b username).
+Complete each task within the provided HTML file (index.html) and CSS file (styles.css).
+Commit your changes and push them to your forked repository.
+Submit a pull request to the main repository for review.
 
 
-
-## Program 1: Display Personal Information
-Write a Dart program using variables to display your name, age, school, and a hobby. Print it in one logical sentence.
-
-## Program 2: Perform Mathematical Operations with Functions
-Write a Dart program that performs two mathematical operations using functions.
-
-## Program 3: Determine Grade Based on Marks
-Write a Dart program to determine the grade based on a student's marks. The program should print out the appropriate grade according to the following criteria:
-- If the marks are greater than 85, print "Excellent".
-- If the marks are between 75 and 85 (inclusive), print "Very Good".
-- If the marks are between 65 and 75 (inclusive), print "Good".
-- If the marks are below 65, print "Average".
+Happy hacking! 🚀
